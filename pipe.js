@@ -1,9 +1,11 @@
 function Pipe(){
 
-  this.top=random(height/2);
-  this.bottom = random(height/2);
+var spacing =random(60, height/2-100)
+var centery=random(spacing,height-spacing);
+  this.top=centery-spacing/2;
+  this.bottom = height-(centery+spacing/2);
   this.x=width;
-  this.w=20;
+  this.w=40;
   this.speed=3;
   this.highlight=false;
 
@@ -19,6 +21,7 @@ function Pipe(){
   }
 
   this.show=function(){
+    noStroke();
     fill (255);
     if(this.highlight){
       fill(255, 0 ,0);

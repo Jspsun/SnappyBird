@@ -1,12 +1,13 @@
 function Bird(){
   this.y=height/2;
   this.x=64;
-  this.lift=-17.5
+  this.lift=-30;
 
   this.gravity= 0.75;
   this.velocity=0;
 
   this.show=function(){
+    noStroke();
     fill(255);
     ellipse(this.x, this.y,32,32);
   }
