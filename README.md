@@ -7,17 +7,17 @@ The project is pretty much what it sounds like. I took the tried and true flappy
 
 
 ## What I used
-..* javascript
-..* p5 framework
-..* a tiny tiny bit of html for the index file
+-javascript
+-p5 framework
+-a tiny tiny bit of html for the index file
 
 ## TODO
-..* Improve visual feedback when pipes are hit
-..* Add counter for each pipe passed
-..* Add in graphics for pipe and bird
-..* Add in graphics for background
+-Improve visual feedback when pipes are hit
+-Add counter for each pipe passed
+-Add in graphics for pipe and bird
+-Add in graphics for background
 
 ## Completed tasks (date completed)
-..* Set up initial flappy bird (Nov 2, 2016)
-..* Improve pipe generation (Nov 2, 2016)
-..* Add snapping functionality (Nov 3, 2016) 
+-Set up initial flappy bird (Nov 2, 2016)
+-Improve pipe generation (Nov 2, 2016)
+-Add snapping functionality (Nov 3, 2016)
