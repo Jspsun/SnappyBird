@@ -20,4 +20,4 @@ The project is pretty much what it sounds like. I took the tried and true flappy
 ## Completed tasks (date completed)
 ..* Set up initial flappy bird (Nov 2, 2016)
 ..* Improve pipe generation (Nov 2, 2016)
-..* Add snapping functionality (Nov 3, 2016)
+..* Add snapping functionality (Nov 3, 2016) 
