@@ -8,7 +8,7 @@ function Bird(){
 
   this.show=function(){
     noStroke();
-    fill(255);
+    fill(182,203,212);
     ellipse(this.x, this.y,32,32);
   }
 this.up =function(){

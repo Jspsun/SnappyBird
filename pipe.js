@@ -22,7 +22,7 @@ var centery=random(spacing,height-spacing);
 
   this.show=function(){
     noStroke();
-    fill (255);
+    fill (25,28,30);
     if(this.highlight){
       fill(255, 0 ,0);
     }
