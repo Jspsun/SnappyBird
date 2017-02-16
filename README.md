@@ -2,7 +2,7 @@
 I had some spare time so I figured: What better way to spend an afternoon than building the game that was the bane of my existence
 
 # Screenshots
-![Gif Demo](/img/SnappyDemo.gif?raw=true "Demo")
+![Gif Demo](/img/SnappyBirdDemo.gif?raw=true "Demo")
 
 ## What I Made
 The project is pretty much what it sounds like. I took the tried and true flappy bird, built it in JS and then added in the ability to control the bird by snapping.
